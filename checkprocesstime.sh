@@ -1,4 +1,6 @@
 #!/bin/bash
+# Script para comprobar los procesos que hay en el sistema
+# Usage: ./checkprocesstime.sh [time]
 
 PROGNAME=$(basename $0)
 
