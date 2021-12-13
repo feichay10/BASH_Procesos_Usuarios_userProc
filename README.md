@@ -29,14 +29,16 @@ only if these users exist on your system:
 
 4. Number of processes per user
 
-With the -count option, the number of processes per user that meet the runtime conditions will be obtained
+With the -count option, the number of processes per user that meet the runtime conditions will be obtained:
 
 ![alt text](https://raw.githubusercontent.com/feichay10/BASH_Procesos_Usuarios_userProc/master/assets/count_option.png)
 
 5. Changes in ordering
 
 With the following options, the behavior of the sort can be modified:
+
   -inv: Sorting will be done in reverse.
+  
   -pid: Sorting will be done by pid.
   
 ![alt text](https://raw.githubusercontent.com/feichay10/BASH_Procesos_Usuarios_userProc/master/assets/inv_option.png)
