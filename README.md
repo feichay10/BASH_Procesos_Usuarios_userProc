@@ -2,13 +2,13 @@
 BASH script to show the number of processes of the system users
 
 ## Table of Contents
-1. [Basic function](#1.-basic-function).
+1. [Basic function](#basic-function).
 2. [Only users with connection](#only-users-with-connection).
 3. [Filter by user](#filter-by-user).
 4. [Number of processes per user](#number-of-processes-per-user).
 5. [Changes in ordering](#changes-in-ordering).
 
-### 1. Basic function 
+### Basic function 
 
 The basic operation is that if no option is specified, it shows a list with all the users who have at least a process with a 
 consumed CPU time greater than N, where if no parameter N is passed it will be 1 second, with the parameter `-t N` we will 
