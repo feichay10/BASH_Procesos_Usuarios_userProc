@@ -2,7 +2,7 @@
 BASH script to show the number of processes of the system users
 
 ## Table of Contents
-1. [Basic function](#basic-function).
+1. [Basic function](#1.-basic-function).
 2. [Only users with connection](#only-users-with-connection).
 3. [Filter by user](#filter-by-user).
 4. [Number of processes per user](#number-of-processes-per-user).
